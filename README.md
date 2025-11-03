@@ -91,7 +91,7 @@ You are free to use, modify, and distribute it for educational or commercial pur
 
 ## 👨‍💻 Author
 
-**Ojobor Jude**  
+**Ojobor Jude Ikechukwu**  
 AI & Software Developer | Virtual Assistant | Tech Innovator  
 📍 Nigeria | 🌐 [GitHub Profile](https://github.com/judeik)  
 ✉️ **Email:** [judeojobor@gmail.com](mailto:judeojobor@gmail.com)  
